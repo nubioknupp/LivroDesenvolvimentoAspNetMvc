@@ -1,0 +1,160 @@
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.dll.config
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.pdb
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Antlr3.Runtime.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.AspNet.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.Core.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\EntityFramework.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.Edm.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.OData.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Newtonsoft.Json.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Spatial.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Helpers.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Http.OData.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Mvc.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Optimization.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Razor.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Deployment.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Razor.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebGrease.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.Data.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.WebData.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\EntityFramework.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Newtonsoft.Json.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Helpers.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Mvc.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Razor.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Deployment.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Razor.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.Data.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.WebData.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.AspNet.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.Core.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Http.OData.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.Edm.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.OData.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Spatial.xml
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\System.Spatial.resources.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.dll
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.pdb
+D:\Livro Desenvolvimento web com ASP.NET MVC\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.csprojResolveAssemblyReference.cache
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.dll.config
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\AplicacaoComCodeFirst.pdb
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Antlr3.Runtime.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.AspNet.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.Core.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\EntityFramework.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.Edm.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.OData.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Newtonsoft.Json.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Spatial.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Helpers.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Http.OData.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Mvc.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Optimization.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Razor.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebGrease.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.Data.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.WebData.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\EntityFramework.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Newtonsoft.Json.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Helpers.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Mvc.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Razor.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.Data.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\WebMatrix.WebData.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.AspNet.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.Core.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OAuth.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Web.Http.OData.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.Edm.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\Microsoft.Data.OData.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\System.Spatial.xml
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\de\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\es\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\fr\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\it\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ja\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ko\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\ru\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hans\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\bin\zh-Hant\System.Spatial.resources.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.csprojResolveAssemblyReference.cache
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.dll
+D:\GitHub\LivroDesenvolvimentoComAspNetMvc\AplicacaoComCodeFirst\AplicacaoComCodeFirst\obj\Debug\AplicacaoComCodeFirst.pdb
