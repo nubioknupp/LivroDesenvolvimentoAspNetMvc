@@ -3,7 +3,7 @@
 namespace CadeMeuMedico.Models
 {
     [MetadataType(typeof(MedicoMetadado))]
-    public partial class Medico
+    public partial class Medicos
     {
 
     }
