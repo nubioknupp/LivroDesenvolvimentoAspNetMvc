@@ -7,11 +7,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
-
 namespace CadeMeuMedico.Models
 {
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
+    
     public partial class EntidadesCadeMeuMedicoBD : DbContext
     {
         public EntidadesCadeMeuMedicoBD()
@@ -24,9 +25,9 @@ namespace CadeMeuMedico.Models
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Cidades> Cidades { get; set; }
-        public virtual DbSet<Especialidades> Especialidades { get; set; }
-        public virtual DbSet<Medicos> Medicos { get; set; }
-        public virtual DbSet<Usuarios> Usuarios { get; set; }
+        public virtual DbSet<Cidade> Cidade { get; set; }
+        public virtual DbSet<Especialidade> Especialidade { get; set; }
+        public virtual DbSet<Medico> Medico { get; set; }
+        public virtual DbSet<Usuario> Usuario { get; set; }
     }
 }

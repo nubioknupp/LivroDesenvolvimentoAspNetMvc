@@ -1,59 +1,57 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using CadeMeuMedico.Models;
 
 namespace CadeMeuMedico.Controllers
 {
-    public class MedicosController : Controller
+    public class MedicoController : Controller
     {
         private EntidadesCadeMeuMedicoBD db = new EntidadesCadeMeuMedicoBD();
 
         public ActionResult Index()
         {
-            var medicos = db.Medicos.Include("Cidades").Include("Especialidades").ToList();
+            var medicos = db.Medico.Include("Cidade").Include("Especialidade").ToList();
             return View(medicos);
         }
 
         public ActionResult Adicionar()
         {
-            ViewBag.IdCidade = new SelectList(db.Cidades, "IdCidade", "Nome");
-            ViewBag.IdEspecialidade = new SelectList(db.Especialidades,
+            ViewBag.IdCidade = new SelectList(db.Cidade, "IdCidade", "Nome");
+            ViewBag.IdEspecialidade = new SelectList(db.Especialidade,
                                                       "IdEspecialidade", "Nome");
             return View();
         }
 
         [HttpPost]
-        public ActionResult Adicionar(Medicos medico)
+        public ActionResult Adicionar(Medico medico)
         {
             if (ModelState.IsValid)
             {
-                db.Medicos.Add(medico);
+                db.Medico.Add(medico);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            ViewBag.IdCidade = new SelectList(db.Cidades, "IdCidade", "Nome", medico.IdCidade);
-            ViewBag.IdEspecialidade = new SelectList(db.Especialidades,
+            ViewBag.IdCidade = new SelectList(db.Cidade, "IdCidade", "Nome", medico.IdCidade);
+            ViewBag.IdEspecialidade = new SelectList(db.Especialidade,
                                                       "IdEspecialidade", "Nome", medico.IdEspecialidade);
             return View(medico);
         }
 
         public ActionResult Editar(long id)
         {
-            Medicos medico = db.Medicos.Find(id);
+            Medico medico = db.Medico.Find(id);
 
-            ViewBag.IdCidade = new SelectList(db.Cidades, "IdCidade", "Nome", medico.IdCidade);
-            ViewBag.IdEspecialidade = new SelectList(db.Especialidades,
+            ViewBag.IdCidade = new SelectList(db.Cidade, "IdCidade", "Nome", medico.IdCidade);
+            ViewBag.IdEspecialidade = new SelectList(db.Especialidade,
                                                       "IdEspecialidade", "Nome", medico.IdEspecialidade);
             return View(medico);
         }
 
         [HttpPost]
-        public ActionResult Editar(Medicos medico)
+        public ActionResult Editar(Medico medico)
         {
             if (ModelState.IsValid)
             {
@@ -62,8 +60,8 @@ namespace CadeMeuMedico.Controllers
                 return RedirectToAction("Index");
             }
 
-            ViewBag.IdCidade = new SelectList(db.Cidades, "IdCidade", "Nome", medico.IdCidade);
-            ViewBag.IdEspecialidade = new SelectList(db.Especialidades,
+            ViewBag.IdCidade = new SelectList(db.Cidade, "IdCidade", "Nome", medico.IdCidade);
+            ViewBag.IdEspecialidade = new SelectList(db.Especialidade,
                                                       "IdEspecialidade", "Nome", medico.IdEspecialidade);
             return View(medico);
         }
@@ -73,8 +71,8 @@ namespace CadeMeuMedico.Controllers
         {
             try
             {
-                Medicos medico = db.Medicos.Find(id);
-                db.Medicos.Remove(medico);
+                Medico medico = db.Medico.Find(id);
+                db.Medico.Remove(medico);
                 db.SaveChanges();
                 return Boolean.TrueString;
             }

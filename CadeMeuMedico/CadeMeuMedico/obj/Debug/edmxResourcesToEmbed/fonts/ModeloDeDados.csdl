@@ -68,7 +68,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="CadeMeuMedicoBDEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="EntidadesCadeMeuMedicoBD" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Cidade" EntityType="Self.Cidade" />
     <EntitySet Name="Especialidade" EntityType="Self.Especialidade" />
     <EntitySet Name="Medico" EntityType="Self.Medico" />

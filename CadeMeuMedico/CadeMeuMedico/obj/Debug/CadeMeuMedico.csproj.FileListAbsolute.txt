@@ -24,6 +24,7 @@ D:\GitHub\LivroDesenvolvimentoComAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\Entit
 D:\GitHub\LivroDesenvolvimentoComAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.SqlServer.dll
 D:\GitHub\LivroDesenvolvimentoComAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.xml
 D:\GitHub\LivroDesenvolvimentoComAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.SqlServer.xml
+D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll.config
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.pdb
@@ -49,4 +50,3 @@ D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\System.W
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
 D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
-D:\GitHub\LivroDesenvolvimentoAspNetMvc\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache

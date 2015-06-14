@@ -4,11 +4,11 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="cd7c449aee704690b86489d178ec52fc" Name="Diagram1">
-        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Cidades" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
-        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Especialidades" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
-        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Medicos" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Usuarios" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+      <Diagram DiagramId="8a1e3c3890784618a9a16b1c1ec8580e" Name="Diagram1">
+        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Cidade" Width="1.5" PointX="0.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Especialidade" Width="1.5" PointX="6.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Medico" Width="1.5" PointX="3.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CadeMeuMedicoBDModel.Usuario" Width="1.5" PointX="6.125" PointY="2.875" IsExpanded="true" />
         <AssociationConnector Association="CadeMeuMedicoBDModel.fk_medicos_cidades" ManuallyRouted="false" />
         <AssociationConnector Association="CadeMeuMedicoBDModel.fk_medicos_especialidades" ManuallyRouted="false" />
       </Diagram>

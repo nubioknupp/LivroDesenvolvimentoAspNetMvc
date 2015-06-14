@@ -7,20 +7,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.Collections.Generic;
-
 namespace CadeMeuMedico.Models
 {
-    public partial class Cidades
+    using System;
+    using System.Collections.Generic;
+    
+    public partial class Usuario
     {
-        public Cidades()
-        {
-            this.Medicos = new HashSet<Medicos>();
-        }
-    
-        public int IdCidade { get; set; }
+        public long IdUsuario { get; set; }
         public string Nome { get; set; }
-    
-        public virtual ICollection<Medicos> Medicos { get; set; }
+        public string Login { get; set; }
+        public string Senha { get; set; }
+        public string Email { get; set; }
     }
 }
