@@ -42,7 +42,7 @@ namespace CadeMeuMedico.Controllers
 
         public ActionResult Editar(long id)
         {
-            Medico medico = db.Medico.Find(id);
+            var medico = db.Medico.Find(id);
 
             ViewBag.IdCidade = new SelectList(db.Cidade, "IdCidade", "Nome", medico.IdCidade);
             ViewBag.IdEspecialidade = new SelectList(db.Especialidade,
@@ -71,7 +71,7 @@ namespace CadeMeuMedico.Controllers
         {
             try
             {
-                Medico medico = db.Medico.Find(id);
+                var medico = db.Medico.Find(id);
                 db.Medico.Remove(medico);
                 db.SaveChanges();
                 return Boolean.TrueString;

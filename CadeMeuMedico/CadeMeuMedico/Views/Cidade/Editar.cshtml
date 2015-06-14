@@ -1,10 +1,10 @@
 ﻿@model CadeMeuMedico.Models.Cidade
 
 @{
-    ViewBag.Title = "Adicionar";
+    ViewBag.Title = "Editar";
 }
 
-<h2>Adicionar</h2>
+<h2>Editar</h2>
 
 @using (Html.BeginForm()) {
     @Html.AntiForgeryToken()
@@ -12,6 +12,9 @@
 
     <fieldset>
         <legend>Cidade</legend>
+
+        @Html.HiddenFor(model => model.IdCidade)
+
         <div class="editor-label">
             @Html.LabelFor(model => model.Nome)
         </div>
@@ -21,7 +24,7 @@
         </div>
 
         <p>
-            <input type="submit" value="Salvar" />
+            <input type="submit" value="Save" />
         </p>
     </fieldset>
 }

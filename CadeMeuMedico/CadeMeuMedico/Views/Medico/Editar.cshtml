@@ -1,4 +1,5 @@
-﻿@model CadeMeuMedico.Models.Medico
+﻿@using System
+@model CadeMeuMedico.Models.Medico
 
 @{
     ViewBag.Title = "Editar";
@@ -84,7 +85,7 @@
             @Html.LabelFor(model => model.IdCidade)
         </div>
         <div class="editor-field">
-            @Html.EditorFor(model => model.IdCidade)
+            @Html.DropDownList("IdCidade", String.Empty)
             @Html.ValidationMessageFor(model => model.IdCidade)
         </div>
 
@@ -92,7 +93,7 @@
             @Html.LabelFor(model => model.IdEspecialidade)
         </div>
         <div class="editor-field">
-            @Html.EditorFor(model => model.IdEspecialidade)
+            @Html.DropDownList("IdEspecialidade", String.Empty)
             @Html.ValidationMessageFor(model => model.IdEspecialidade)
         </div>
 
